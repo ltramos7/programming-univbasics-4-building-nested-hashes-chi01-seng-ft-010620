@@ -18,7 +18,7 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   hash = {:railroads => {:rent_in_dollars => {
-                                              :one_piece_owned => "a fee of 25", 
+                                              :one_piece_owned => "fee of 25", 
                                               :key2 => "value2", 
                                               :key3 => "value3", 
                                               :key4 => "value4"}, 
